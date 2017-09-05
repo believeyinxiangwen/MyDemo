@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/friend"
+            android:icon="@mipmap/ic_launcher"
+            android:title="friend"
+            />
+        <item
+            android:id="@+id/call"
+            android:icon="@mipmap/ic_launcher"
+            android:title="call"/>
+        <item
+            android:id="@+id/email"
+            android:icon="@mipmap/ic_launcher"
+            android:title="email"/>
+
+    </group>
+</menu>
